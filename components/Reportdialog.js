@@ -1,0 +1,4 @@
+/*
+intergerate the dialogbox and paginator components into a main component
+where we fetch data and handle pagination
+*/
